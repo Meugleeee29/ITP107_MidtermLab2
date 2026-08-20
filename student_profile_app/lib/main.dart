@@ -26,10 +26,10 @@ class StudentProfileApp extends StatelessWidget {
 
 
 class _ProfileData {
-  static const String fullName = 'Juan Miguel D. Dela Cruz';
-  static const String nickname = 'Jigs';
+  static const String fullName = 'Nathaniel Louis N. Boreta';
+  static const String nickname = 'Nath';
   static const String age = '20';
-  static const String birthday = 'March 14, 2006';
+  static const String birthday = 'August 29, 2005';
   static const String address = 'Cabuyao, Laguna, Philippines';
   static const String hobby = 'Playing basketball & building apps';
   static const String motto = '"Code a little, learn a lot."';
